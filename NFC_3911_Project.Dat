@@ -1,0 +1,33 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~NFC_3911_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\TANG\Desktop\Temporary_Files\NFC_3911\NFC_3911_Project\NFC_3911_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [NFC_3911_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~76|ReportField=ReportTime~13:40:02|ReportField=ReportDate~2019/3/5|ReportField=ReportDateTime~2019/3/5 13:40:02|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/3/5|ReportField=CurrentTime~13:39:51|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\TANG\Desktop\Temporary_Files\NFC_3911\NFC_3911_Project\nfc_3911_sch.SchDoc|ReportField=DocumentName~nfc_3911_sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/3/5|ReportField=Organization~|ReportField=ProjectName~NFC_3911_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~NFC_3911_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\TANG\Desktop\Temporary_Files\NFC_3911\NFC_3911_Project\NFC_3911_Project.PrjPcb
+1|C_1µ_0402_X5R|1u_X5R|C1, C29|0402_C|C_1µ_0402_X5R|2
+2|C_5p6_0402|5p6_COG|C2, C3|0402_C|C_5p6_0402|2
+3|C_100n_0402_X7R|100n_X7R|C4, C8|0402_C|C_100n_0402_X7R|2
+4|C_12p_0402|12p_COG|C5, C6|0402_C|C_12p_0402|2
+5|d.n.p.||C7|0402_C|C_0402|1
+6|C_27p_0402|27p_COG|C9, C10|0402_C|C_27p_0402|2
+7|C_56p_0402|56p_COG|C11, C12|0402_C|C_56p_0402|2
+8|C_8p2_0402|8p2_COG|C13, C16|0402_C|C_8p2_0402|2
+9|C_82p_0603|82p_COG|C14, C34|0603_C|C_82p_0603|2
+10|C_10p_0603|10p_COG|C15, C33|0603_C|C_10p_0603|2
+11|C_180p_0603|180p_COG|C17, C32|0603_C|C_180p_0603|2
+12|d.n.p.||C18, C25|0603_C|C_0603|2
+13|C_680p_0603|680p_COG|C19, C31|0603_C|C_680p_0603|2
+14|C_120p_0603|120p_COG|C20, C30|0603_C|C_120p_0603|2
+15|C_10n_0402_X7R|10n_x7R|C21, C22, C23, C24|0402_C|C_10n_0402_X7R|4
+16|C_2µ2_0402_X5R|2u2_X5R|C26, C27, C28|0402_C|C_2µ2_0402_X5R|3
+17|100nF|Capacitor|C35, C36, C37, C43|0402_C|Cap|4
+18|CAP-NP|1uF/6.3V/10%/X5R, 1uF/6.3V/10%/X5R, 10nF/25V/10%/X7R, 0.1uF/16V/10%/X5R, 0.1uF/16V/10%/X5R|C38, C39, C40, C41, C42|0402_C|1405000354, 1405000354, 1405000727, 1405000357, 1405000357|5
+19|CAP-NP|12pF/50V/5%/C0G|C44|0402C_0.4D|1405000181|1
+20|红灯 0603|发光二极管|D1|0603_LED_S1|0603 红灯|1
+21|closed 0R|0R|J1, J2|0402_R|solder_jumper_closed|2
+22|270n|L0603_270nH|L1, L2|0603_L|L0603_270nH|2
+23|BEAD|Inductor|L3|0603|Inductor|1
+24|Hole||P1, P2, P3, P4, P5, P6, P7, P9, P11, P12, P13|TP1|Hole|11
+25|SPI 5-M|2.00mm/1*5P/单排/直/PA=4/PC=2.8|P8, P14|SIP 2.0_5_S|1416000091|2
+26|SIM-4|SIM卡座|P10|SIM-MUP-C717|1416000310|1
+27|3R9|3R9, 0603|R1, R2|0603_R|R0603_3R9|2
+28|RES|33R/5%/100PPM, 33R/5%/100PPM, 1K/5%/100PPM, 1K/5%/100PPM, 33R/5%/100PPM, 10K/1%/100PPM|R3, R6, R7, R8, R9, R10|0402R_0.4D|1408000466, 1408000466, 1408000535, 1408000535, 1408000466, 1408000127|6
+29|ST25R3911B|NFC Initiator / HF Reader IC|U1|ST25R3911B|ST25R3911|1
+30|SGM2028-3.3V||U2|SGM2028-3.3|SGM2028|1
+31|STM32F031K6U6||U3|STM32F031K6U6|MCU_LQFP32|1
+32|CRYSTAL-4P|10pF/40MHz/10PPM/60Ωmax/-40°~85°|X1|2520|1413000276|1

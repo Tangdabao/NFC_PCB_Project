@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC41_2 Pin=R4-1
+Removed Pin From Net: NetName=V_RF_3911 Pin=R4-2
+Removed Pin From Net: NetName=V_RF_3911 Pin=R5-2
+Removed Pin From Net: NetName=DATA1 Pin=R9-1
+Removed Member From Class: ClassName=nfc_3911_sch Member=R4
+Removed Member From Class: ClassName=nfc_3911_sch Member=R5
+Added Component: Designator=C44(0402C_0.4D)
+Added Pin To Net: NetName=V_RF_3911 Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=V_RF_3911 Pin=P10-1
+Added Pin To Net: NetName=DATA1 Pin=R9-2
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC44_2 Pin=P10-7
+Added Pin To Net: NetName=NetC44_2 Pin=R9-1
+Added Net: Name=NetC44_2
+Added Member To Class: ClassName=nfc_3911_sch Member=Component C44 CAP-NP

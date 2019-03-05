@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=V_RF_3911 Pin=P9-0
+Removed Pin From Net: NetName=SWDCLK Pin=P11-0
+Removed Pin From Net: NetName=SWDIO Pin=P12-0
+Removed Pin From Net: NetName=GND Pin=P13-0
+Removed Pin From Net: NetName=GND Pin=U3-33
+Change Component DesignItemId : Designator=C1 Old DesignItemId=C_1¦Ì_0402_X5R New DesignItemId=C_1¦Ì_0402_X5R
+Change Component DesignItemId : Designator=C29 Old DesignItemId=C_1¦Ì_0402_X5R New DesignItemId=C_1¦Ì_0402_X5R
+Change Component DesignItemId : Designator=C26 Old DesignItemId=C_2¦Ì2_0402_X5R New DesignItemId=C_2¦Ì2_0402_X5R
+Change Component DesignItemId : Designator=C27 Old DesignItemId=C_2¦Ì2_0402_X5R New DesignItemId=C_2¦Ì2_0402_X5R
+Change Component DesignItemId : Designator=C28 Old DesignItemId=C_2¦Ì2_0402_X5R New DesignItemId=C_2¦Ì2_0402_X5R
+Added Component: Designator=P14(SIP 2.0_5_S)
+Added Pin To Net: NetName=V_RF_3911 Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=RST2 Pin=P14-3
+Added Pin To Net: NetName=CLK2 Pin=P14-4
+Added Pin To Net: NetName=DATA2 Pin=P14-5
+Added Member To Class: ClassName=nfc_3911_sch Member=Component P14 SPI 5-M
